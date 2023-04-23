@@ -1,0 +1,23 @@
+{
+  "name": "yul-experiments",
+  "version": "1.0.0",
+  "description": "Yul implementations of common Solidity smart contracts.  For science",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beepboop-eth/yul-experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beepboop-eth/yul-experiments/issues"
+  },
+  "homepage": "https://github.com/beepboop-eth/yul-experiments#readme",
+  "dependencies": {
+    "solc": "^0.8.19"
+  }
+}
